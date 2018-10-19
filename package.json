@@ -1,6 +1,6 @@
 {
   "name": "flex-layout-style",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "jianglinghua",
   "scripts": {
     "start": "gulp watch",

@@ -168,10 +168,12 @@
 .flex-row > .flex1,
 .flex-row > .flex2 {
   width: 0;
+  min-width: 0;
 }
 .flex-column > .flex1,
 .flex-column > .flex2 {
   height: 0;
+  min-height: 0;
 }
 .self-start {
   -webkit-align-self: flex-start;
